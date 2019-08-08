@@ -1,5 +1,5 @@
 import React from "react";
-import MapRouter from "./MapRouter.jsx";
+import MapRouter from "./map.jsx";
 import Routes from "./routes"
 class RouterView extends React.Component{
     render(){
